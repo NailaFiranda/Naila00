@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -64,7 +64,6 @@
     <hr>
     <p></p>
 </body>
-</html>
             <h2>RINGKASAN</h2>
             <head>
     <meta charset="UTF-8">
@@ -76,7 +75,6 @@
     <hr>
     <p></p>
 </body>
-</html>
             <p>Perkenalkan saya naila firanda mempunyai bakat memahami isi hati seseorang,
 		tapi sayangnya saya selalu tidak mendapatkan timbal balik. Saya anak sulung dari 2 bersaudara,
 		saya dapat merapihkan rumah, menata barang dengan rapih dan itu sesuatu yang langka bagi saya.</p>
@@ -91,10 +89,7 @@
     <hr>
     <p></p>
 </body>
-</html>
             <h4>WARUNG LEBOX</h4>
-             
-            <!DOCTYPE html>
             <html lang="en">
             <head>
                 <meta charset="UTF-8">
@@ -106,8 +101,6 @@
                 </ul>
             </body>
             <h4>KETUA KELOMPOK</h4>
-        
-            <!DOCTYPE html>
             <html lang="en">
             <head>
                 <meta charset="UTF-8">
@@ -120,8 +113,6 @@
                 </ul>
             </body>
 		<h4>BENDAHARA</h4>
-        
-            <!DOCTYPE html>
             <html lang="en">
             <head>
                 <meta charset="UTF-8">
@@ -134,7 +125,6 @@
 		    <li>Dapat mengatur keuangan kelas sehingga tidak kekurangan dana</li>
                 </ul>
             </body>
-
             <h4>KEAHLIAN DAN KOMPETENSI</h4>
             <head>
     <meta charset="UTF-8">
@@ -146,7 +136,6 @@
     <hr>
     <p></p>
 </body>
-</html>
             <li>Menari</li>
         <h2>PENDIDIKAN</h2>
         <head>
@@ -159,7 +148,6 @@
     <hr>
     <p></p>
 </body>
-</html>
         <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -178,13 +166,11 @@
             text-decoration: none;
             cursor: pointer;
         }
-
         .button img {
             vertical-align: middle;
             margin-right: 10px;
             height: 24px; /* Adjust based on your needs */
         }
-
         .button:hover {
             background-color: #0056b3;
         }
@@ -193,7 +179,6 @@
 <body>
                     <p>SMAN 3 KOTA SERANG (2876)</p>
             <img src="https://sman3kotaserang.sch.id/media_library/image_sliders/4b52ce926ca2d2c684ef929416a1cedb.JPG" alt="Gambar Proyek">
-            <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -212,13 +197,11 @@
             text-decoration: none;
             cursor: pointer;
         }
-
         .button img {
             vertical-align: middle;
             margin-right: 10px;
             height: 24px; /* Adjust based on your needs */
         }
-
         .button:hover {
             background-color: #0056b3;
         }
@@ -230,8 +213,3 @@
         <img src="https://www.pngarts.com/files/11/Instagram-IG-Logo-Transparent-Image.png" alt="Logo"> IG - nlfrrnd
     </a>
 </body>
-</html>
-        </div>
-    </div>
-</body>
-</html>
